@@ -1,0 +1,14 @@
+.navegacion-barra a {
+ color: white;
+ text-decoration: none;
+}
+
+.navegacion-barra a:hover{
+    background-color: gold;
+    color: black;
+}
+
+.navegacion-barra{
+    display: flex;
+    justify-content: space-around;
+}
